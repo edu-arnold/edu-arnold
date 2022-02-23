@@ -1,0 +1,5 @@
+- 👋 Hola soy eduduardo  arnold
+- 👀 Estoy interesado en  php
+- 🌱 me encuentro aprendiendo  js
+- 💞️ Me gustaria colaborar  en un proyecto grande
+- 📫 contactame  arnoldeduardojrs@gmail.com
